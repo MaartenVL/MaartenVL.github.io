@@ -15,7 +15,7 @@ author: Maarten Van Loo
 title: "Counting People"
 classes: wide
 sidebar:
-  - title: "Title"
+  - title: "Counting People"
     image: /assets/images/flock_1.gif
     nav: "docs"
 ---
