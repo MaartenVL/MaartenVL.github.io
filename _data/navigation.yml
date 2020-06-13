@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: "About me"
+    url: /about/
+  - title: "Home"
+    url: /
+docs:
+  - title: Navigation
+    children:
+      - title: "Back Home"
+        url: /
+      - title: "About the author"
+        url: /about/
