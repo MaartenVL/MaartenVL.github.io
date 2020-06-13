@@ -23,7 +23,7 @@ sidebar:
 
 # Are we following people or just counting them?
 
-A couple of days ago `De Tijd` posted following article on their frontpage. The belgian coastline will be counting people, to assess with regards to Covid19 where places would become too overcrowded.
+A couple of days ago `De Tijd` posted following article on their frontpage. The belgian coastline will be counting people, to assess with regards to COVID-19 where places would become too overcrowded.
 If a place becomes too crowded, they could shut it down and avoid a higher risk of virus transmission:
 
 <html>
@@ -53,7 +53,7 @@ and this is represented by the number in the top left corner. The higher the val
 **The balls are generated randomly each time you refresh the page. If they get stuck, just refresh again to initiate a new set of balls at slighly different positions!**
 
 There are several ways to count people through camera's. I can imagine that there will always be some fear of being watched over, and that if this data would come in hands of the wrong people,
-with wrong ideas, it could be used for lesser good. However, I hope to show that it's perfectly possible to use technology for the benifit of society. 
+with wrong ideas, it could be used for lesser good. However, I hope to show that it's perfectly possible to use technology for the benefit of society. 
 
 <html>
 <iframe src="https://editor.p5js.org/maartenvanloo/embed/LwX9QPQlr" style="width: 800px; height: 400px; overflow: hidden;"  scrolling="no" frameborder="0" ></iframe>
